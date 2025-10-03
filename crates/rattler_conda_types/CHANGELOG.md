@@ -39,6 +39,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.39.4](https://github.com/conda/rattler/compare/rattler_conda_types-v0.39.3...rattler_conda_types-v0.39.4) - 2025-10-03
+
+### Other
+
+- *(conda_types)* reduce `MinimalPrefixRecord` read overhead ([#1697](https://github.com/conda/rattler/pull/1697))
+
 ## [0.39.3](https://github.com/conda/rattler/compare/rattler_conda_types-v0.39.2...rattler_conda_types-v0.39.3) - 2025-09-30
 
 ### Other
